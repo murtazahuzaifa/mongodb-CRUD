@@ -1,0 +1,11 @@
+{
+  "name": "mongodb CRUD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "murtazahuzaifa <murtaza.huzaifa2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.14"
+  }
+}
